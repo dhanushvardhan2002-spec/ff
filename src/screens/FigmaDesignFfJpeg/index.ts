@@ -1,0 +1,1 @@
+export { FigmaDesignFfJpeg } from "./FigmaDesignFfJpeg";
